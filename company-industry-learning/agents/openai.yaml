@@ -1,0 +1,7 @@
+interface:
+  display_name: "公司与行业学习"
+  short_description: "通过公司材料建立经营、供应链与行业专业认知"
+  default_prompt: "Use $company-industry-learning to analyze this company material and build a company profile and industry map."
+
+policy:
+  allow_implicit_invocation: true
